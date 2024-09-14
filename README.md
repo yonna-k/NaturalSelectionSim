@@ -1,5 +1,5 @@
 # Natural Selection Simulator
-A 3D simulation to model natural selection, aimed at enhancing students' understanding of evolutionary processes. Allows users to experiment with various parameters and observe the effects on simulated populations. Completed as NEA for Computer Science A-Level.
+A 3D simulation created in Unity to model natural selection, aimed at enhancing students' understanding of evolutionary processes. Allows users to experiment with various parameters and observe the effects on simulated populations. Completed as NEA for Computer Science A-Level.
 
 ## Prerequisites
 ### For Windows Users (Executable Available):
@@ -15,5 +15,6 @@ A 3D simulation to model natural selection, aimed at enhancing students' underst
 ## How To Download/Run Project in Unity
 1. Clone Repository
    
-   <pre>git clone </pre>
+   <pre>git clone https://github.com/yonna-k/NaturalSelectionSim.git</pre>
+2. 
 
