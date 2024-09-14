@@ -30,7 +30,8 @@ A 3D simulation created in Unity to model natural selection, aimed at enhancing 
 **Note: If certain parts of the UI appear cut off, switch from the 'Scene' tab to the 'Game' tab, and set the display to 'Full HD (1920x1080)' for the best experience.**
 ## Additional Notes
 
-This project was my first attempt at implementing Object-Oriented Programming (OOP) concepts in Unity. Since then, I have continued to improve my skills through my studies in university and have learnt a lot more about OOP and coding in general.
+- This project was my first attempt at implementing Object-Oriented Programming (OOP) concepts in Unity. Since then, I have continued to improve my skills through my studies in university and have learnt a lot more about OOP and coding in general.
+- The Documentation for this project was completed alongside the coding and is available in the repository ('NEA Documentation'). This includes Analysis, Design, Technical Solution, Testing and Evaluation phases.
 
    
    
